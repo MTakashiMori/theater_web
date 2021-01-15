@@ -7,6 +7,8 @@ TO RUN ->
 VUE_APP_BASE_URL=http://{YOUR_IP_LOCAL}:8000/api/v1/
 ```
 
+- MAIN ROUTE : locahost:8080/movie
+
 ## Project setup
 ```
 yarn install
